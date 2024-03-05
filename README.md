@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 My name is Vasilina Vasilevskaia. I am an Honours Bachelor of Computer Science (Game Engineering) student at Sheridan College. My expected graduation date is April 2025. This repository was created to show some of my projects :)
 
 <!--
 **vasilinaSheridan/vasilinaSheridan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
